@@ -3,5 +3,13 @@ body{
     color: rgb(177, 179, 99)
 }
 img{
-    max-height: 20vh;
+    max-height: 30vh;
+}
+.jesus{
+    min-height: 30vh;
+}
+.quote{
+    
+    background-color: rgb(177, 179, 99);
+    color: rgb(25, 60, 90)
 }
