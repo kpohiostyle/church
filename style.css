@@ -3,10 +3,11 @@ body{
     color: rgb(177, 179, 99)
 }
 img{
-    max-height: 30vh;
+    max-width: 40vh;
 }
-.jesus{
-    min-height: 30vh;
+.header-image{
+    min-width: 30vh;
+    
 }
 .quote{
     
