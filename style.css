@@ -1,9 +1,13 @@
 body{
+    display: flex;
+    flex-direction: column;
     background-color: rgb(25, 60, 90);
     color: rgb(177, 179, 99)
+
 }
 img{
-    max-width: 40vh;
+    max-width: 35vh;
+    max-height: fit-content;
 }
 .header-image{
     min-width: 30vh;
@@ -13,4 +17,10 @@ img{
     
     background-color: rgb(177, 179, 99);
     color: rgb(25, 60, 90)
+}
+ul{
+    list-style: none;
+}
+li{
+    padding-bottom: 1rem;
 }
